@@ -1,16 +1,25 @@
-# eco_tips_app
+# 🌱 Eco Tips App
 
-A new Flutter project.
+A simple Flutter app that provides daily eco-friendly tips to encourage sustainable living.  
 
-## Getting Started
+## 🚀 Features
+- 📝 Daily eco-friendly tips  
+- 🌍 Clean and simple UI  
+- 📱 Works on Android devices  
 
-This project is a starting point for a Flutter application.
+## 📦 Getting Started
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/your-username/eco_tips_app.git
+   cd eco_tips_app
+2. Install dependencies:
+flutter pub get
+3. Run the app:
+flutter run
 
-A few resources to get you started if this is your first Flutter project:
+📜 License
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This project is open-source under the MIT License
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+---
