@@ -1,0 +1,32 @@
+name: eco_tips_app
+description: "A simple Flutter app that provides eco-friendly tips (SDG 13: Climate Action) with daily notifications."
+publish_to: 'none' # Remove if you plan to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Local storage
+  shared_preferences: ^2.2.2
+
+  # Notifications
+  flutter_local_notifications: ^17.2.1
+  timezone: ^0.9.4
+
+  # Icons and material design
+  cupertino_icons: ^1.0.8
+  google_fonts: ^6.3.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
